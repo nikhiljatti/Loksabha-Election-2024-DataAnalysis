@@ -1,4 +1,4 @@
 # Loksabha-Election-2024-DataAnalysis
-mini project on predicting the outcomes of the 2024 Lok Sabha elections using Machine Learning techniques. This project involved analyzing historical election data, and applying predictive models to gain insights into potential voting patterns and outcomes. leveraging tools like Python, Pandas, and scikit-learn. 
+A mini project on the 2024 Lok Sabha elections using Python, focusing on analyzing historical election data and extracting insights through exploratory data analysis (EDA). The project involved understanding voting patterns and outcomes while leveraging tools such as Python, Pandas, and scikit-learn.
 
 
